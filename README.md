@@ -9,5 +9,10 @@ The output is stored in database as well as in .csv file.
 
 # Modules used
 requests
+
 BeautifulSoup
+
 csv
+
+datetime
+
